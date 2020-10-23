@@ -1,0 +1,35 @@
+{
+  "project_info": {
+    "project_number": "555817229308",
+    "firebase_url": "https://agenda-ai-1998.firebaseio.com",
+    "project_id": "agenda-ai-1998",
+    "storage_bucket": "agenda-ai-1998.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:555817229308:android:776d2d519bf5427d",
+        "android_client_info": {
+          "package_name": "com.example.agenda_ai"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBOpOmtbjKA_azPUlduEvKdtTu2oipWAJY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "555817229308-qsiafq68916uraoctv1vcr8qpbjfu99j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
